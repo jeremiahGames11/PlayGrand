@@ -44,7 +44,7 @@ Are you ready to hit 21? Start playing PlayGrand app today!
 
 ## Download the App
 
-You can download the Teen Patti App from the Uptodown app store using the following link:
+You can download the PlayGrand App from the Uptodown app store using the following link:
 
 <a href='https://com-jbc-playgrand.en.uptodown.com/android' title='Download PlayGrand' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-aao-big-w.png' alt='Download PlayGrand'>
