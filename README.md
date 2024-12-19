@@ -1,9 +1,5 @@
 # PlayGrand
-
 <img src="playgrand-appicon.png" width="120" alt="Home Screen">
 
-**Fast, fun, and challenging!** Test your reflexes by tapping the screen only when the light is green. Earn points and beat the high score while avoiding mistakes that cost lives.
-
-[Download Playing Exchange on Uptodown](https://com-jbc-playgrand.en.uptodown.com/android)
-
-![App Screenshot](screenshot1.png)
+## **PlayGrand: Play Blackjack, India’s favorite card game!**
+<img src="screenshot1" width="200" alt="Home Screen">    <img src="screenshot2" width="200" alt="Home Screen">    <img src="screenshot3" width="200" alt="Home Screen">
