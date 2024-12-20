@@ -4,7 +4,7 @@
 ## **PlayGrand: Play Blackjack, India’s favorite card game!**
 <img src="playgrand-screenshot1.png" width="300" alt="Home Screen">   <img src="playgrand-screenshot2.png" width="300" alt="Home Screen">   <img src="playgrand-screenshot3.png" width="300" alt="Home Screen">
 
-Welcome to my repository! This repository contains the source code for the PlayGrand app, available for download on the Uptodown app store.
+Welcome to my repository! This repository contains the source code for the [PlayGrand App](https://com-jbc-playgrand.en.uptodown.com/android), available for download on the Uptodown app store.
 
 ## About the App
 
@@ -38,9 +38,9 @@ Key Features:
 * Intuitive controls for smooth gameplay.
 * No real money involved – just pure fun!
 
-Download PlayGrand now and step into the captivating world of Blackjack 21. Whether you're a beginner looking to learn or a pro wanting to sharpen your skills, this is the perfect app for you. Challenge yourself, outsmart the dealer, and enjoy hours of entertainment.
+Download [PlayGrand](https://com-jbc-playgrand.en.uptodown.com/android) now and step into the captivating world of Blackjack 21. Whether you're a beginner looking to learn or a pro wanting to sharpen your skills, this is the perfect app for you. Challenge yourself, outsmart the dealer, and enjoy hours of entertainment.
 
-Are you ready to hit 21? Start playing PlayGrand app today!
+Are you ready to hit 21? Start playing [PlayGrand App](https://com-jbc-playgrand.en.uptodown.com/android) today!
 
 ## Download the App
 
