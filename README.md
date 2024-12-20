@@ -10,7 +10,7 @@ Welcome to my repository! This repository contains the source code for the PlayG
 
 Welcome to **PlayGrand**!
 
-Dive into the thrilling world of Blackjack 21, one of the most popular card games in India and around the globe! With [b]PlayGrand[/b], you can enjoy the excitement of Blackjack in a safe, fun, and risk-free environment. Perfect for beginners and seasoned players alike, this app offers endless entertainment and an easy way to sharpen your skills.  Blackjack 21 is a timeless classic loved by millions for its simplicity and strategy. It’s easy to learn but challenging to master, making every round exhilarating.
+Dive into the thrilling world of Blackjack 21, one of the most popular card games in India and around the globe! With [PlayGrand](https://com-jbc-playgrand.en.uptodown.com/android), you can enjoy the excitement of Blackjack in a safe, fun, and risk-free environment. Perfect for beginners and seasoned players alike, this app offers endless entertainment and an easy way to sharpen your skills.  Blackjack 21 is a timeless classic loved by millions for its simplicity and strategy. It’s easy to learn but challenging to master, making every round exhilarating.
 
 How to Play Blackjack 21:  
 Objective: The goal is to beat the dealer by getting a hand value closer to 21 without going over. 
